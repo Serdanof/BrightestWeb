@@ -1,8 +1,8 @@
-- 👋 Hi, here is Libright.
+- 👋 Hi, here is the crazy developer with bright light.
 - 👀 I’m interested in Web Development, Web Application and Desktop/Mobile Application.
 - 🌱 I’m currently learning Artificial Intelligence and Blockchain.
 - 💞️ I’m looking to collaborate with mad developers.
-- 📫 Reach me here: libright1120@gmail.com
+- 📫 Reach me here: mikael971120@gmail.com or libright1120@gmail.com
 
 <!---
 librightPines/librightPines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
