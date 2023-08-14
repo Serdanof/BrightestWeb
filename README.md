@@ -1,6 +1,6 @@
 - 👋 Hi, here is Libright.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Deep Learning.
+- 👀 I’m interested in Web Development, Web Application and Desktop/Mobile Application.
+- 🌱 I’m currently learning Artificial Intelligence and Blockchain.
 - 💞️ I’m looking to collaborate with mad developers.
 - 📫 Reach me here: libright1120@gmail.com
 
