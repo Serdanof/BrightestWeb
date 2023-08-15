@@ -5,10 +5,15 @@
 ## Skills
 
 - 💬 Language : HTML5, CSS3, JavaScript, TypeScript, NodeJS, Python, PHP, Java, C#, Go
+
 - 🌱 Frontend : React.js, Next.js, Vue.js, Nuxt.js, Angular.js, jQuery, Bootstrap, TailwindCSS, Ant Design, Material Design
+
 - 🔭 Backend : Express.js, Koa.js, Nest.js, Laravel, Symfony, Django, Flask
+
 - 📲 Mobile: Android, React Native, Ionic, Flutter
+
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, DynamoDB, Firestore, MariaDB
+
 - 📫 Other : Currently learning Artificial Intelligence and Blockchain.
 
 ## Tools
