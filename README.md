@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satoshi&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Full+Stack+Web/+App+Developer;Senior+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacific&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Full+Stack+Web/+App+Developer;Senior+Frontend+Developer)](https://git.io/typing-svg)
 
 - 👋 Hi, the present and future of web development is of us, crazy developers.
 
