@@ -19,11 +19,11 @@
 ## Tools
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="45" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
 <code><img height="45" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="45" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
 <code><img height="45" src="https://loopback.io/images/global/loopback-full-logo-blue.svg"></code>
@@ -40,7 +40,6 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk03fpMxbjzvgaDz2z3gu5G-9UeqgnNfUdd7gzSo9-er843XxKIG3g46lO1GRUF-L9UWs&usqp=CAU"></code>
 <code><img height="45" src="https://icons-for-free.com/iconfiles/png/512/jquery+icon-1320185152994214115.png"></code>
-<code><img height="45" src="raphael.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"></code>
 <code><img height="45" src="https://www.chartjs.org/media/logo-title.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
