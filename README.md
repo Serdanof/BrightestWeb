@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Hi,+Call+me+Tapio;Or+Full+Stack;Or+Crazy+Developer)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://github.com/techcaptain83/techcaptain83/blob/main/Logo.gif" />
+</p>
+
 <h3 align="center">Full Stack Developer from Naantali, Finland.</h3>
 
 <div align="center">
