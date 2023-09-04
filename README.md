@@ -15,7 +15,7 @@
 ## Who am I <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px">
 
 - 💻 I am currently working as a Full Stack Web Development Freelancer.
-- 💬 Ask me about **_NodeJS, PHP, Python, Java & their frameworks_**
+- 💬 Ask me about **_NodeJS, PHP, Python & their frameworks_**
 - 📄 Please visit [https://www.brightestWeb.com](https://www.brightestWeb.com)
 
 ## Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="27px" width="25px">
